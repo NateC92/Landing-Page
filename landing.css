@@ -83,16 +83,9 @@ img {
 
 
 .second {
-  
- 
-  
   padding: 50px;
-  text-align: center;
-
- 
-  
+  text-align: center; 
 }
-
 
 
 
@@ -116,4 +109,37 @@ img {
     margin-top: 20px;
   }
 
+  /*third section*/
+  
+  .third {
+    background-color: #e5e7eb;
+    padding: 100px;
+    display: flex;
+    text-align: center; 
+    flex-direction: column;
+  
+    }
+  
+
+  .facts {
+    font-size: 36px;
+    align-items: center;
+    justify-content: center;
+    
+    
+  }
+
+.quote {
+  max-width: 900px;
+  text-align: left;
+  margin-left: 400px;
+  font-weight: lighter;
+  font-style:italic
+}
+
+.quotee {
+  margin-top: 0px;
+  margin-left: 600px;
+}
+  
  

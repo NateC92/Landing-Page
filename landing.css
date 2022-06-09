@@ -142,4 +142,39 @@ img {
   margin-left: 600px;
 }
   
- 
+ /*fourth section*/
+
+ .fourth {
+  
+   padding: 50px 0px;
+   margin: 100px 300px;
+  display: flex;
+  align-items: center;
+ justify-content: center;
+ gap: 300px;
+ background-color: #3882f6;
+ border-radius: 8px;
+ }
+
+
+.cta {
+  font-weight: bold;
+}
+
+
+.banner, .button {
+  font-size: 20px;
+  color: #f9faf8;
+  
+}
+
+.button {
+  margin-right: 50px;
+  padding: 6px 30px;
+  color: #f9faf8;
+  background-color: #3882f6;
+  border: 2px solid white;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
